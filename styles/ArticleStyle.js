@@ -8,7 +8,7 @@ const articleStyle = StyleSheet.create({
     },
     listArticalStyle : {
         width : '100%',
-        flex : 1
+        padding : 5
     }
 }
 )
