@@ -8,7 +8,14 @@ const articleStyle = StyleSheet.create({
     },
     listArticalStyle : {
         width : '100%',
-        padding : 5
+        padding : 5,
+    },
+    displayContainer : {
+        backgroundColor : "#ffffff",
+        flexDirection : 'column',
+        padding : 10,
+        alignItems : 'flex-start',
+        flex : 1
     }
 }
 )
